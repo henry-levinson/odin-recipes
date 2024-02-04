@@ -1,0 +1,23 @@
+body {
+  background-color: #f5deb399;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: blue;
+  text-align: center;
+}
+
+.header {
+  text-align: center;
+  color: blueviolet;
+}
+
+.description {
+  text-align: left;
+}
+
+.ingredients {
+  text-align: left;
+}
+
+.steps {
+  text-align: left;
+}
