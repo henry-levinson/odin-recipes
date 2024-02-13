@@ -3,6 +3,7 @@ body {
   font-family:Verdana, Geneva, Tahoma, sans-serif;
   color: blue;
   text-align: center;
+  margin: 0 1.5em;
 }
 
 .header {
